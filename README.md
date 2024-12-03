@@ -38,3 +38,7 @@ A demo for dashboard development.
 3. **Run the application:**
    ```bash
    streamlit run run.py
+
+4. **Result**
+
+![Dashboard Preview](img/Dash1.png)
