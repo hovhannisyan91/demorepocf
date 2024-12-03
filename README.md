@@ -6,7 +6,15 @@ A demo for dashboard development.
 
 ## How It Works
 
-1. **Create a virtual environment:**
+1. **Clone this repository**
+   - ```bash
+        git clone https://github.com/hovhannisyan91/demorepocf.git ```
+2. Navigating to  `demorepocf` folder
+    - ```bash
+        cd demorepocf 
+        ```
+3. **Open with code editor as a project**
+3. **Create a virtual environment:**
    - Using `conda`:
      ```bash
      conda create -n venv python=3.10
@@ -16,7 +24,7 @@ A demo for dashboard development.
      python -m venv venv
      ```
 
-2. **Activate the virtual environment:**
+4. **Activate the virtual environment:**
    - With `conda`:
      ```bash
      conda activate venv
@@ -35,10 +43,10 @@ A demo for dashboard development.
         print(i)
        ```
 
-3. **Run the application:**
+5. **Run the application:**
    ```bash
    streamlit run run.py
 
-4. **Result**
+6. **Result**
 
 ![Dashboard Preview](img/Dash1.png)
