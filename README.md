@@ -2,6 +2,7 @@
 A demo for dashboard development.
 
 ## Prerequisites
+
 - **Python version:** 3.10
 
 ## How It Works
@@ -42,11 +43,13 @@ A demo for dashboard development.
        for i in range(5):
         print(i)
        ```
+5. **Install the requirements**
+   - sdasad
 
-5. **Run the application:**
+6. **Run the application:**
    ```bash
    streamlit run run.py
 
-6. **Result**
+7. **Result**
 
 ![Dashboard Preview](img/Dash1.png)
